@@ -1,2 +1,15 @@
-# python-daily-practice
-🐍 Daily Python practice programs, coding exercises, and mini projects as part of my journey to becoming a Python Full Stack Developer
+ # 🐍 Python Daily Practice
+
+Welcome to my Python learning journey!
+
+## 📌 About
+This repository contains my daily Python practice programs and coding exercises.
+
+I am currently learning Python step by step and will update this repository regularly with new programs and projects.
+
+## 🚀 Current Progress
+- ✅ Python Basics (Learning)
+- ⏳ More topics will be added as I continue learning.
+
+---
+Thank you for visiting my repository!
