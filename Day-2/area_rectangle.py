@@ -1,4 +1,4 @@
-#rectangle area
+#rectangle area 
 num1=float(input('Enter length value :'))
 num2=float(input('Enter breadth value:'))
 area_rect=num1*num2
