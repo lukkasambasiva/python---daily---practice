@@ -24,6 +24,7 @@ Topics Learned:
 - Arithmetic Operators
 - Comparison (Relational) Operators
 - Logical Operators
+- Assinnment Operators
 - Bitwise Operators
 - Ternary Operator
 
