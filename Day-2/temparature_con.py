@@ -1,5 +1,5 @@
 # converts celius to fahrenheeit
-'''step1:remember the user choice
+'''step1:remember the user choice 
 step2:remember a temparature
 step3:convert a c to f
 step4:cocverts a f to c
