@@ -1,4 +1,4 @@
- # 🐍 Python Daily Practice
+ # 🐍 Python Daily Practice 
 
 Welcome to my Python learning journey!
 
