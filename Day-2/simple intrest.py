@@ -1,7 +1,7 @@
 #simple interest
 '''principle p
 rate
-time
+time 
 
 step1: remember priciple amount
 step2: remember interest rate
