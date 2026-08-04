@@ -1,4 +1,4 @@
-#age calculator
+#age calculator 
 '''step1:remember to bith year
 step2:remember to current passing year
 step3:subrction current passing year- birth year
