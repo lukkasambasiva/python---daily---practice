@@ -1,4 +1,4 @@
-#perimeter of rectangle area
+#perimeter of rectangle area 
 num1=float(input('Enter length value :'))
 num2=float(input('Enter breadth value:'))
 per_rect =2*(num1+num2)
