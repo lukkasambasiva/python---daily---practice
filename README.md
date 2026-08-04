@@ -17,21 +17,18 @@ Topics Learned:
 - Input and Output
 - Variables
   
- # 🐍 Day 02 - Python Operators
+ # Day 02
 
-## 📚 Topics Covered
+## Topics Learned:
+
 - Arithmetic Operators
 - Comparison (Relational) Operators
 - Logical Operators
 - Bitwise Operators
 - Ternary Operator
-- Real-world Arithmetic Programs
 
----
+## Programs Practiced:
 
-## 📂 Programs
-
-### 🔢 Operator Programs
 - Arithmetic Operators
 - All Operators
 - Comparison Operators
@@ -39,36 +36,43 @@ Topics Learned:
 - NOT Operator
 - Bitwise Operators
 - Ternary Operator
-
-### ➕ Arithmetic Programs
 - Division
 - Floor Division
 - Multiplication
 - Subtraction
 - Remainder
 - Square of a Number
-
-### 📐 Formula Programs
 - Area of Rectangle
 - Perimeter of Rectangle
 - Area of Circle
 - Simple Interest
 - Temperature Conversion
 - Age Calculator
-
 ---
+# Day 03
 
-## 🎯 Learning Outcome
+## Topics Learned:
 
-After completing Day 02, I learned:
-- How arithmetic operators work.
-- How comparison operators return Boolean values.
-- How logical operators combine multiple conditions.
-- How bitwise operators work on binary values.
-- How to solve basic mathematical and real-world problems using Python operators.
+- if Statement
+- if-else Statement
+- elif Statement
+- Nested if Statement
 
----
+## Programs Practiced:
 
-⭐ Day 02 completed successfully.
----
+- Current Bill
+- Even or Odd
+- Grade Calculator
+- if Statement
+- if-elif Statement
+- Movie Ticket
+- Nested if
+- Positive Number
+- Shopkeeper Discount
+- Simple Calculator
+- Student Result
+- Supermarket Billing
+- Tax Payment
+- Time Sheet
+- Traffic Fine
 Thank you for visiting my repository!
